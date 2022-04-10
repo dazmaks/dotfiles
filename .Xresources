@@ -3,7 +3,7 @@
 !
 !----- XTerm settings           
 !
-
+xTerm*visualBell:      true
 xterm*loginShell:      true
 xterm*renderFont:      true
 xterm*faceName:        Monospace
