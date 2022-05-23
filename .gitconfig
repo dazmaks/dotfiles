@@ -1,0 +1,10 @@
+[credential "https://github.com"]
+	helper = !/usr/bin/gh auth git-credential
+[user]
+	email = epicemail@doge-mail.net
+	name = dazmaks
+	signingkey = E134C13C29978673
+[init]
+	defaultBranch = main
+[commit]
+	gpgSign = true
